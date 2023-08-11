@@ -6,7 +6,7 @@ const page = () => {
   return (
     <div>
         <Header  color="yellow" />
-        page
+        pages
         
         </div>
   )
